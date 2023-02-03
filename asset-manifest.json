@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/webKeeper/static/js/main.6707c750.js",
+    "index.html": "/webKeeper/index.html",
+    "main.6707c750.js.map": "/webKeeper/static/js/main.6707c750.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6707c750.js"
+  ]
+}
